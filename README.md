@@ -26,7 +26,7 @@ x  # Descripción, problema identificado, solución, arquitectura
 
 # Instalacion
 
-##### Instalas Python, si aun no lo tienes descargalo e instalalo desde el sitio web oficial de Python [Python Download] (https://www.python.org/downloads/)
+##### Instalas Python, si aun no lo tienes descargalo e instalalo desde el sitio web oficial de Python https://www.python.org/downloads/ 
 
 
 
