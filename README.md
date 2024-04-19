@@ -1,5 +1,5 @@
-#### Descripción, problema identificado, solución, arquitectura
+# Descripción, problema identificado, solución, arquitectura
 
-### Descripcion.
+## Descripcion.
 
-# El proyecto consiste en un sistema de automatizacion de inventarios, y punto de venta para una pequeña tienda de abarrotes.
+##### El proyecto consiste en un sistema de automatizacion de inventarios, y punto de venta para una pequeña tienda de abarrotes.
