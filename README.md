@@ -6,18 +6,18 @@
 
 ## Problemas
 
-### La tienda ha tenido perdidas por cobrar mal, han negado productos derivada de un mal inventario pues no contemplan la demanda real o al contrario han tenido perdidas por productos caducados.
+#### La tienda ha tenido perdidas por cobrar mal, han negado productos derivada de un mal inventario pues no contemplan la demanda real o al contrario han tenido perdidas por productos caducados.
 
 ## Solucion
 
-### Implementar el sistema de gestion de inventarios y ventas el cual permitira el registro de ventas cobros incluyendo opciones para diferentes metodos de pago e inventarios.
+#### Implementar el sistema de gestion de inventarios y ventas el cual permitira el registro de ventas cobros incluyendo opciones para diferentes metodos de pago e inventarios.
 
 ## Arquitectura
 
-### Interfaz de usuario esta aun no se desarrolla por el tiempo pero se espera implementarla en el futuro para que los usuarios tengan a su disposicion las herramientas y ventajas que este sistema pretende darles.
+#### Interfaz de usuario esta aun no se desarrolla por el tiempo pero se espera implementarla en el futuro para que los usuarios tengan a su disposicion las herramientas y ventajas que este sistema pretende darles.
 
-### Base de datos se utilizara SQLite para procesar los datos de transacciones e invenetarios.
+#### Base de datos se utilizara SQLite para procesar los datos de transacciones e invenetarios.
 
-### Hardware necesario como pc de reciente modelo, impresora de recibos, cajones de dinero, lector de codigo de barras y terminal bancaria.
+#### Hardware necesario como pc de reciente modelo, impresora de recibos, cajones de dinero, lector de codigo de barras y terminal bancaria.
 
 
