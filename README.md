@@ -47,7 +47,15 @@ Instalar Flask y Gunicorn
 
 pip install Flas gunicorn
 
-Una vez instalado Python podemos iniciar visual studio, con el codigo podemos ejecutar las pruebas del funcionamiento de la aplicacion, hasta el momento solo se ejecutara en linea de comando aun no se ha implementado una interfaz grafica para el usuario.
+Asegúrate de que el servidor local tenga todas las dependencias del sistema necesarias instaladas, como Python, y el servidor de bases de datos SQLite
+
+Configura el servidor web como Nginx o Apache para que actúe como un proxy que pueda manejar HTTPS, redireccionamiento, balanceo de carga, y servir contenido estático.
+
+Crear la base de datos AbarrotesDM
+
+Copia los archivos de la aplicación al servidor o clona el repositorio de código fuente en el servidor de desarrollo.
+
+Configura variables de entorno necesarias para la producción, como cadenas de conexión a bases de datos.
 
 
 
