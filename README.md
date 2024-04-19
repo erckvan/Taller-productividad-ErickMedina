@@ -1,4 +1,4 @@
- x  # Descripción, problema identificado, solución, arquitectura
+# Gestion de inventarios y ventas AbarrotesDM
 
 ## Descripcion.
 
