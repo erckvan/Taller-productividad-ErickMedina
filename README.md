@@ -21,12 +21,12 @@ x  # Descripción, problema identificado, solución, arquitectura
 ##### Hardware necesario como pc de reciente modelo, impresora de recibos, cajones de dinero, lector de codigo de barras y terminal bancaria.
 
 ## Tabla de contenidos
--Requerimientos
--Instalacion
--Configuracion
--Uso
--Contribucion
--Roadmap
+- Requerimientos
+- Instalacion
+- Configuracion
+- Uso
+- Contribucion
+- Roadmap
 
 # Requerimientos
 
