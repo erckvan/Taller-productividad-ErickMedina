@@ -24,9 +24,9 @@
 - [Requerimientos](https://github.com/erckvan/Taller-productividad-ErickMedina/tree/develop?tab=readme-ov-file#requerimientos)
 - [Instalacion](https://github.com/erckvan/Taller-productividad-ErickMedina/tree/develop?tab=readme-ov-file#instalacion)
 - [Configuracion](https://github.com/erckvan/Taller-productividad-ErickMedina/blob/develop/README.md#configuracion) 
-- Uso
-- Contribucion
-- Roadmap
+- [Uso](https://github.com/erckvan/Taller-productividad-ErickMedina/blob/develop/README.md#uso)
+- [Contribucion]
+- [Roadmap]
 
 # Requerimientos
 
