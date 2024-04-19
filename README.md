@@ -1,5 +1,5 @@
-# Taller-productividad-ErickMedina
+#### Descripción, problema identificado, solución, arquitectura
 
-En esta etapa del codigo, se define la funcion registrar_productos.
-Aun no se ha creado la base de datos.
-Tampoco se ha implementado la gestion de ventas y actualizacion de inventarios.
+### Descripcion.
+
+# El proyecto consiste en un sistema de automatizacion de inventarios, y punto de venta para una pequeña tienda de abarrotes.
