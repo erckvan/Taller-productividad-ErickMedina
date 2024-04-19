@@ -14,11 +14,8 @@
 
 ## Arquitectura
 
-##### Interfaz de usuario esta aun no se desarrolla por el tiempo pero se espera implementarla en el futuro para que los usuarios tengan a su disposicion las herramientas y ventajas que este sistema pretende darles.
+![image](https://github.com/erckvan/Taller-productividad-ErickMedina/assets/157736762/93e77233-62da-491f-ad79-3f91ca0696f2)
 
-##### Base de datos se utilizara SQLite para procesar los datos de transacciones e invenetarios.
-
-##### Hardware necesario como pc de reciente modelo, impresora de recibos, cajones de dinero, lector de codigo de barras y terminal bancaria.
 
 ## Tabla de contenidos
 - [Requerimientos](https://github.com/erckvan/Taller-productividad-ErickMedina/tree/develop?tab=readme-ov-file#requerimientos)
