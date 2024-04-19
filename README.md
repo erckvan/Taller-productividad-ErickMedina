@@ -49,7 +49,7 @@ pip install Flas gunicorn
 
 Asegúrate de que el servidor local tenga todas las dependencias del sistema necesarias instaladas, como Python, y el servidor de bases de datos SQLite
 
-##Configuracion
+## Configuracion
 
 Configura el servidor web como Nginx o Apache para que actúe como un proxy que pueda manejar HTTPS, redireccionamiento, balanceo de carga, y servir contenido estático.
 
