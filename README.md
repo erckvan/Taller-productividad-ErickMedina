@@ -108,7 +108,7 @@ cd proyecto-xyz
 configura tu usuario y correo en git 
 
 git config --global user.name "Tu Nombre"
-git config --global user.email "tuemail@example.com"
+git config --global user.email "tu correo"
 
 crea una nueva branch, siempre crea una nueva branch para tus cambios, esto mantiene el branch principal limpio y solo con trabajo aprobado, nombra la branch de manera que refleje el proposito de tu cambio
 Realiza los cambios necesarios en tu rama. Asegúrate de seguir las normas de codificación establecidas en el proyecto
