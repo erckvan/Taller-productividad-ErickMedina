@@ -26,7 +26,26 @@ x  # Descripción, problema identificado, solución, arquitectura
 
 # Instalacion
 
-##### Instalas Python, si aun no lo tienes descargalo e instalalo desde el sitio web oficial de Python https://www.python.org/downloads/ 
+##### Instalas Python, si aun no lo tienes descargalo e instalalo desde el sitio web oficial de Python [Python Downloads](https://www.python.org/downloads/) 
+crea un entorno virtual 
+
+python -m venv venv
+
+Activa el entorno virtual
+
+venv\Scripts\activate
+
+Instalar Flask y Gunicorn
+
+pip install Flas gunicorn
+
+Una vez instalado Python podemos iniciar visual studio, con el codigo podemos ejecutar las pruebas del funcionamiento de la aplicacion, hasta el momento solo se ejecutara en linea de comando aun no se ha implementado una interfaz grafica para el usuario.
+
+
+
+
+
+
 
 
 
