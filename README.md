@@ -59,6 +59,50 @@ Copia los archivos de la aplicación al servidor o clona el repositorio de códi
 
 Configura variables de entorno necesarias para la producción, como cadenas de conexión a bases de datos.
 
+## Uso
+
+Manual de usuario 
+
+- Inicio de sesion y navegacion basica
+  * Como acceder al sistema
+  * Vista general de la interfaz del usuario (Cuando este desarrollada)
+  * Descripcion de las principales areas de la aplicacion.
+
+- Gestion de inventarios
+  * Como ver el inventario existente
+  * Instrucciones para modificar el inventario.
+  * Instrucciones para modificar o eliminar productos existentes
+  * Cómo realizar búsquedas y filtrar datos en el inventario
+
+- Procesamiento de ventas
+  * Cómo ingresar una nueva venta
+  * Descripción de cómo agregar productos a una orden de venta
+  * Explicación de los métodos de pago disponibles
+  * Cómo finalizar una venta y generar recibos
+
+Manuel de usuario administrador
+
+- Requisitos del sistema
+  * Especificaciones técnicas completas, incluyendo requisitos del servidor
+
+- Configuracion inicial
+  * Cómo instalar y configurar el sistema por primera vez
+  * Configuración de parámetros esenciales como configuración de la base de datos
+
+- Administracion de usuarios
+  * Cómo crear y gestionar cuentas de usuario
+  * Asignación de roles y permisos a los usuarios
+
+- Gestión Avanzada de Inventarios
+  * Procedimientos para ajustes de inventario masivos
+  * Configuración de alertas de inventario (por ejemplo, notificaciones de bajo stock)
+
+- Gestión de Datos
+  * Procedimientos para la importación y exportación de datos
+  * Cómo realizar copias de seguridad y restauración de datos
+
+## Contribución
+
 
 
 
