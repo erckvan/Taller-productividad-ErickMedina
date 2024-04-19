@@ -20,4 +20,8 @@
 
 ##### Hardware necesario como pc de reciente modelo, impresora de recibos, cajones de dinero, lector de codigo de barras y terminal bancaria.
 
+# Requerimientos
+
+
+
 
