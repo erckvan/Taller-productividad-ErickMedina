@@ -22,6 +22,13 @@
 
 # Requerimientos
 
+##### Se utilizara un servidor Gunicorn, se utilizara el framework Flask con el paquete flask-login y flask-wtf para desarrollar el sistema y la interfaz de usuario, y la base de datos SQLite para procesar los datos de las ventas e inventarios y la interaccion en tiempo real de ambas.
+
+# Instalacion
+
+##### Instalas Python, si aun no lo tienes descargalo e instalalo desde el sitio web oficial de Python [(https://www.python.org/downloads/)]
+
+
 
 
 
