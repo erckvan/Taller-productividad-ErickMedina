@@ -103,6 +103,30 @@ Manuel de usuario administrador
 
 ## Contribución
 
+Asegurate de tener git instalado en tu maquina, puedes descargarlo desde [git](https://git-scm.com/)  
+
+Clona el repositorio para empezar a trabajar en el proyecto, primero debes clonar el repositorio, usa el siguiente comando de git para clonar el repositorio git clone https://github.com/erckvan/Taller-productividad-ErickMedina.git
+cd proyecto-xyz
+
+configura tu usuario y correo en git 
+
+git config --global user.name "Tu Nombre"
+git config --global user.email "tuemail@example.com"
+
+crea una nueva branch, siempre crea una nueva branch para tus cambios, esto mantiene el branch principal limpio y solo con trabajo aprobado, nombra la branch de manera que refleje el proposito de tu cambio
+Realiza los cambios necesarios en tu rama. Asegúrate de seguir las normas de codificación establecidas en el proyecto
+Una vez que hayas realizado los cambios necesarios, deberás agregarlos y hacer un commit a tu branch
+
+Sube tu branch al repositorio remoto para que otros puedan ver tus cambios
+
+Ve al repositorio en GitHub. Deberías ver un botón para "Crear un pull request" para tu nuevo branch. Haz clic en él, revisa tus cambios, y luego crea el pull request con una descripción de lo que el cambio implica y por qué se hizo, si es necesario
+
+Espera a que otro colaborador revise tu pull request. Puede que te pidan realizar cambios adicionales
+
+Una vez que tu pull request haya sido aprobado, un mantenedor del proyecto lo fusionará con la branch principal
+
+
+
 
 
 
