@@ -1,4 +1,4 @@
-x  # Descripción, problema identificado, solución, arquitectura
+ x  # Descripción, problema identificado, solución, arquitectura
 
 ## Descripcion.
 
@@ -21,7 +21,7 @@ x  # Descripción, problema identificado, solución, arquitectura
 ##### Hardware necesario como pc de reciente modelo, impresora de recibos, cajones de dinero, lector de codigo de barras y terminal bancaria.
 
 ## Tabla de contenidos
-- Requerimientos
+- [Requerimientos](https://github.com/erckvan/Taller-productividad-ErickMedina/tree/develop?tab=readme-ov-file#se-utilizara-un-servidor-gunicorn-se-utilizara-el-framework-flask-con-el-paquete-flask-login-y-flask-wtf-para-desarrollar-el-sistema-y-la-interfaz-de-usuario-y-la-base-de-datos-sqlite-para-procesar-los-datos-de-las-ventas-e-inventarios-y-la-interaccion-en-tiempo-real-de-ambas)
 - Instalacion
 - Configuracion
 - Uso
