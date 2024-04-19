@@ -20,6 +20,14 @@ x  # Descripción, problema identificado, solución, arquitectura
 
 ##### Hardware necesario como pc de reciente modelo, impresora de recibos, cajones de dinero, lector de codigo de barras y terminal bancaria.
 
+## Tabla de contenidos
+-Requerimientos
+-Instalacion
+-Configuracion
+-Uso
+-Contribucion
+-Roadmap
+
 # Requerimientos
 
 ##### Se utilizara un servidor Gunicorn, se utilizara el framework Flask con el paquete flask-login y flask-wtf para desarrollar el sistema y la interfaz de usuario, y la base de datos SQLite para procesar los datos de las ventas e inventarios y la interaccion en tiempo real de ambas.
